@@ -11,4 +11,6 @@ body {
   font-family: "poppins", sans-serif;
   line-height: 1.8;
   background: linear-gradient(to right, #211a5eb7, #302b638e, #7979d680);
+  color: #333;
+  line-height: 1.6;
 }
